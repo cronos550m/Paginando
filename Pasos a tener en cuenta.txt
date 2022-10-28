@@ -1,0 +1,6 @@
+1- npx create-react-app client (se crea el proyecto react)
+2- npm install react-router-dom (se instala el router-dom para poder crear rutas)
+
+en el servidor
+npm init
+npm install express
